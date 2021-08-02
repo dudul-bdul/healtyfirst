@@ -1,5 +1,5 @@
 ---
-title: Obat Sipilis, Gonor, Kencing Nanah, Raja Singa
+title: Obat Sipilis, Gonore, Kencing Nanah, Raja Singa
 afterTitle: Chanamax Bharata Asli Buatan Indonesia
 type: features
 ---
