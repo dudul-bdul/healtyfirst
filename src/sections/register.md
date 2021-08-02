@@ -1,6 +1,12 @@
 ---
-title: Registration
+title: PESAN SEKARANG
 type: register
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi.
+dapatkan promo untuk pemesanan bulan ini
+
+Harga Promo Cuma 
+ <del>R̶p̶.̶350̶.̶0̶0̶0̶,̶-̶</del>
+Rp.245.000
+
+Bisa Bayar Di Tempat (COD)
