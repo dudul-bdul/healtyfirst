@@ -1,8 +1,8 @@
-# 11ty-landing-page
+# Aplication Project
 
-A simple landing page built with 11ty and Tailwind CSS.
+healtyfirst.com application project.
 
-> Port of the [Hugo Version](https://github.com/ttntm/hugo-landing-page)
+> Sehat Yang Harus Diutamakan
 
 ## How to use this template
 
