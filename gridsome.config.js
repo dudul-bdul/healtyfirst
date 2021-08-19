@@ -15,6 +15,17 @@ module.exports = {
 
   plugins: [
     {
+      use: 'gridsome-plugin-gtm',
+      options: {
+        id: 'GTM-M65XT9M',
+        enabled: true,
+        debug: true
+      }
+    }
+  ],
+
+  plugins: [
+    {
       // Create posts from markdown files
       use: '@gridsome/source-filesystem',
       options: {
@@ -42,4 +53,8 @@ module.exports = {
       ]
     }
   }
+
+
+  
+    
 }

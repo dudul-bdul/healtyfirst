@@ -8,7 +8,7 @@
       <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
     </div>
 
-   <ButtonWhatsapp class="button-cont" />
+   <!-- <ButtonWhatsapp class="button-cont" /> -->
   </Layout>
 </template>
 

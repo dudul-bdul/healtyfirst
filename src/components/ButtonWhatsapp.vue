@@ -2,7 +2,7 @@
 
 <div class="button_cont" align="center">
 
-<a class="example_f" href="add-website-here" target="_blank" rel="nofollow">
+<a class="example_f" href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal Channamax Bharata" target="_blank" rel="nofollow">
 <span>Pesan Sekarang</a>
 </div>
 	
