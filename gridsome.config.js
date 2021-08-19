@@ -28,14 +28,7 @@ module.exports = {
           }
         }
       }
-    },
-    {
-      use: 'gridsome-plugin-gtm',
-      options: {
-        id: 'GTM-XXXXXXX',
-        enabled: true,
-        debug: true
-      }
+    }
   ],
 
   transformers: {
