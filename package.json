@@ -1,21 +1,20 @@
 {
-  "name": "healtyfirst",
-  "version": "0.0.1",
-  "description": "Website Di Kesehatan Healty First",
+  "name": "gridsome-starter-blog",
+  "private": true,
   "scripts": {
-    "serve": "eleventy --serve",
-    "deploy": "eleventy"
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
   },
-  "author": "ttntm",
-  "license": "MIT",
+  "dependencies": {
+    "@gridsome/plugin-google-analytics": "^0.1.0",
+    "@gridsome/remark-prismjs": "^0.2.0",
+    "@gridsome/source-filesystem": "^0.6.0",
+    "@gridsome/transformer-remark": "^0.3.0",
+    "gridsome": "^0.7.0"
+  },
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@11ty/eleventy-plugin-rss": "^1.1.1",
-    "autoprefixer": "^10.2.5",
-    "cssnano": "^4.1.10",
-    "html-minifier": "^4.0.0",
-    "postcss": "^8.2.9",
-    "postcss-import": "^14.0.0",
-    "tailwindcss": "^2.0.4"
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0"
   }
 }
