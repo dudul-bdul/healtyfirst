@@ -96,5 +96,8 @@ Berbeda denga Kencing Nanah pada pria jika terjadi pada Wanita Kencing Nanah bis
 ### R̶p̶.̶350̶.̶0̶0̶0̶
 # Rp.245.000
 
+  <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal Channamax Bharata" width="320" height="420" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/panah.gif)</a>
+ 
+ <a href="https://wa.me/6285710108175?text=Hello kak, saya mau pesan obat herbal Channamax Bharata" width="180" height="180" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/whatapps.png)</a>
+
   ![wHATSAPP](./images/ekspedition.jpg)
-  ![wHATSAPP](./images/bawah1.png)
