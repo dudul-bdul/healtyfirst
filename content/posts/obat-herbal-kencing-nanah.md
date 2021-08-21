@@ -12,7 +12,7 @@ description: "Beli Obat Herbal Sipilis, Kencing Nanah, dan Gonore Ali Terbaik. T
 # Apakah Anda Mengalami Salah Satu Gejala Seperti ini...??
 
 - Kencing Keluar Nanah ?
-- Keluar Lensir di Kemaluan ?
+- Keluar Lendir di Kemaluan ?
 - Ada Flek di Celana Dalam ?
 - Terdapat Luka atau Sariawan Pada Alat Kelamin ?
 - Demam Tinggi Sampai Hilang Nafsu Makan ?
@@ -27,7 +27,8 @@ description: "Beli Obat Herbal Sipilis, Kencing Nanah, dan Gonore Ali Terbaik. T
  
  <a href="https://wa.me/6285710108175?Hello kak, saya mau pesan obat herbal sipilis" width="180" height="180" rel="Order Produk Via Whatsapp">![wHATSAPP](./images/whatapps.png)</a>
 
-# Awas...!! Jika Penyakit Sipilis di Biarkan Semakin Parah, Tak Hanya Mengakibatkan Kerusakan Otak dan Kelumpuhan akan Tetapi Kematian...!!
+# Awas...!! Jika Penyakit Sipilis di Biarkan Semakin Parah.
+# Tak Hanya Mengakibatkan Kerusakan Otak dan Kelumpuhan akan Tetapi Kematian...!!
 
 ## 80% Penderita Sipilis bisa Impoten dan mengalami Kemandulan karena telat Penanganan. Penyebab paling umum ialah hubungan intim yang tidak sehat tanpa pengaman
 
